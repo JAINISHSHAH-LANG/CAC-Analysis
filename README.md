@@ -54,3 +54,4 @@ The primary recommendation is to **optimize digital marketing channels**.
 ---
 
 *Analysis generated with the assistance of AI tools for Python scripting and data storytelling.*
+Submitted for Financial Services Performance Analysis Task.
